@@ -1,0 +1,26 @@
+{
+  "unversionedId": "learn/apy",
+  "id": "learn/apy",
+  "title": "APY",
+  "description": "Coming soon!",
+  "source": "@site/docs/learn/apy.md",
+  "sourceDirName": "learn",
+  "slug": "/learn/apy",
+  "permalink": "/docs/learn/apy",
+  "editUrl": "https://github.com/WatcherDAO/docs/learn/apy.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Fees",
+    "permalink": "/docs/learn/fees"
+  },
+  "next": {
+    "title": "DAOs",
+    "permalink": "/docs/learn/daos"
+  }
+}

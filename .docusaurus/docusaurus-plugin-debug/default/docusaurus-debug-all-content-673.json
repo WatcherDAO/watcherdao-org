@@ -1,0 +1,257 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "loadedVersions": [
+        {
+          "versionName": "current",
+          "versionLabel": "Next",
+          "versionPath": "/docs",
+          "tagsPath": "/docs/tags",
+          "versionEditUrl": "https://github.com/WatcherDAO/docs",
+          "versionEditUrlLocalized": "https://github.com/WatcherDAO/i18n/en/docusaurus-plugin-content-docs/current",
+          "versionBanner": null,
+          "versionBadge": false,
+          "versionClassName": "docs-version-current",
+          "isLast": true,
+          "routePriority": -1,
+          "sidebarFilePath": "/Users/pindaroso/code/solana-info/docs/sidebars.js",
+          "contentPath": "/Users/pindaroso/code/solana-info/docs/docs",
+          "contentPathLocalized": "/Users/pindaroso/code/solana-info/docs/i18n/en/docusaurus-plugin-content-docs/current",
+          "docs": [
+            {
+              "unversionedId": "intro",
+              "id": "intro",
+              "title": "Getting Started",
+              "description": "WatcherDAO provides entity analytics by and for the Solana community.",
+              "source": "@site/docs/intro.md",
+              "sourceDirName": ".",
+              "slug": "/intro",
+              "permalink": "/docs/intro",
+              "editUrl": "https://github.com/WatcherDAO/docs/intro.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "next": {
+                "title": "Entity Lists",
+                "permalink": "/docs/learn/entity-lists"
+              }
+            },
+            {
+              "unversionedId": "learn/entity-lists",
+              "id": "learn/entity-lists",
+              "title": "Entity Lists",
+              "description": "The core innovation with WatcherDAO is its ability to verify and scale read operations on the Solana blockchain. It is common knowledge to any developer who has ever spent time working on Solana that since the blockchain is optimized for write operations, consistently performing and aggregating read operations is no simple task.",
+              "source": "@site/docs/learn/entity-lists.md",
+              "sourceDirName": "learn",
+              "slug": "/learn/entity-lists",
+              "permalink": "/docs/learn/entity-lists",
+              "editUrl": "https://github.com/WatcherDAO/docs/learn/entity-lists.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Getting Started",
+                "permalink": "/docs/intro"
+              },
+              "next": {
+                "title": "Fetching Analytics",
+                "permalink": "/docs/learn/fetching-analytics"
+              }
+            },
+            {
+              "unversionedId": "learn/fetching-analytics",
+              "id": "learn/fetching-analytics",
+              "title": "Fetching Analytics",
+              "description": "Coming soon!",
+              "source": "@site/docs/learn/fetching-analytics.md",
+              "sourceDirName": "learn",
+              "slug": "/learn/fetching-analytics",
+              "permalink": "/docs/learn/fetching-analytics",
+              "editUrl": "https://github.com/WatcherDAO/docs/learn/fetching-analytics.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Entity Lists",
+                "permalink": "/docs/learn/entity-lists"
+              },
+              "next": {
+                "title": "Tokenomics",
+                "permalink": "/docs/tokenomics"
+              }
+            },
+            {
+              "unversionedId": "tokenomics",
+              "id": "tokenomics",
+              "title": "Tokenomics",
+              "description": "WATCH Token Allocation",
+              "source": "@site/docs/tokenomics.md",
+              "sourceDirName": ".",
+              "slug": "/tokenomics",
+              "permalink": "/docs/tokenomics",
+              "editUrl": "https://github.com/WatcherDAO/docs/tokenomics.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_position": 3
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Fetching Analytics",
+                "permalink": "/docs/learn/fetching-analytics"
+              }
+            }
+          ],
+          "sidebars": {
+            "tutorialSidebar": [
+              {
+                "type": "doc",
+                "id": "intro"
+              },
+              {
+                "type": "category",
+                "label": "Learn",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "learn/entity-lists"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "learn/fetching-analytics"
+                  }
+                ]
+              },
+              {
+                "type": "doc",
+                "id": "tokenomics"
+              }
+            ]
+          },
+          "mainDocId": "intro",
+          "categoryGeneratedIndices": []
+        }
+      ]
+    }
+  },
+  "docusaurus-plugin-content-blog": {
+    "default": {
+      "blogSidebarTitle": "Recent posts",
+      "blogPosts": [
+        {
+          "id": "entity-lists",
+          "metadata": {
+            "permalink": "/blog/entity-lists",
+            "editUrl": "https://github.com/WatcherDAO/blog/2021-12-31-entity-lists/index.md",
+            "source": "@site/blog/2021-12-31-entity-lists/index.md",
+            "title": "Entity Lists",
+            "description": "Coming soon!",
+            "date": "2021-12-31T00:00:00.000Z",
+            "formattedDate": "December 31, 2021",
+            "tags": [
+              {
+                "label": "analytics",
+                "permalink": "/blog/tags/analytics"
+              },
+              {
+                "label": "solana",
+                "permalink": "/blog/tags/solana"
+              },
+              {
+                "label": "fees",
+                "permalink": "/blog/tags/fees"
+              },
+              {
+                "label": "daos",
+                "permalink": "/blog/tags/daos"
+              }
+            ],
+            "readingTime": 0.01,
+            "truncated": false,
+            "authors": []
+          },
+          "content": "Coming soon!"
+        }
+      ],
+      "blogListPaginated": [
+        {
+          "metadata": {
+            "permalink": "/blog",
+            "page": 1,
+            "postsPerPage": 10,
+            "totalPages": 1,
+            "totalCount": 1,
+            "previousPage": null,
+            "nextPage": null,
+            "blogDescription": "Blog",
+            "blogTitle": "Blog"
+          },
+          "items": [
+            "entity-lists"
+          ]
+        }
+      ],
+      "blogTags": {
+        "/blog/tags/analytics": {
+          "name": "analytics",
+          "items": [
+            "entity-lists"
+          ],
+          "permalink": "/blog/tags/analytics"
+        },
+        "/blog/tags/solana": {
+          "name": "solana",
+          "items": [
+            "entity-lists"
+          ],
+          "permalink": "/blog/tags/solana"
+        },
+        "/blog/tags/fees": {
+          "name": "fees",
+          "items": [
+            "entity-lists"
+          ],
+          "permalink": "/blog/tags/fees"
+        },
+        "/blog/tags/daos": {
+          "name": "daos",
+          "items": [
+            "entity-lists"
+          ],
+          "permalink": "/blog/tags/daos"
+        }
+      },
+      "blogTagsListPath": "/blog/tags"
+    }
+  },
+  "docusaurus-plugin-content-pages": {
+    "default": [
+      {
+        "type": "jsx",
+        "permalink": "/",
+        "source": "@site/src/pages/index.tsx"
+      }
+    ]
+  },
+  "docusaurus-plugin-debug": {
+    "default": null
+  },
+  "docusaurus-theme-classic": {
+    "default": null
+  }
+}

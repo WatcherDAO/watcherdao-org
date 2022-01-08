@@ -1,0 +1,26 @@
+{
+  "permalink": "/blog/welcome",
+  "editUrl": "https://github.com/WatcherDAO/blog/2021-12-31-welcome/index.md",
+  "source": "@site/blog/2021-12-31-welcome/index.md",
+  "title": "Welcome",
+  "description": "Coming soon!",
+  "date": "2021-12-31T00:00:00.000Z",
+  "formattedDate": "December 31, 2021",
+  "tags": [
+    {
+      "label": "analytics",
+      "permalink": "/blog/tags/analytics"
+    },
+    {
+      "label": "solana",
+      "permalink": "/blog/tags/solana"
+    },
+    {
+      "label": "daos",
+      "permalink": "/blog/tags/daos"
+    }
+  ],
+  "readingTime": 0.01,
+  "truncated": false,
+  "authors": []
+}

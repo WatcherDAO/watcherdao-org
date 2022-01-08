@@ -1,0 +1,38 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/docs",
+          "mainDocId": "intro",
+          "docs": [
+            {
+              "id": "intro",
+              "path": "/docs/intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "learn/entity-lists",
+              "path": "/docs/learn/entity-lists",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "learn/fetching-analytics",
+              "path": "/docs/learn/fetching-analytics",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tokenomics",
+              "path": "/docs/tokenomics",
+              "sidebar": "tutorialSidebar"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

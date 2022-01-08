@@ -1,0 +1,112 @@
+{
+  "/__docusaurus/debug-3d6": {
+    "component": "component---theme-debug-config-23-a-2ff"
+  },
+  "/__docusaurus/debug/config-914": {
+    "component": "component---theme-debug-config-23-a-2ff"
+  },
+  "/__docusaurus/debug/content-c28": {
+    "component": "component---theme-debug-contentba-8-ce7",
+    "allContent": "allContent---docusaurus-debug-content-246-9aa"
+  },
+  "/__docusaurus/debug/globalData-3cf": {
+    "component": "component---theme-debug-global-dataede-0fa"
+  },
+  "/__docusaurus/debug/metadata-31b": {
+    "component": "component---theme-debug-site-metadata-68-e-3d4"
+  },
+  "/__docusaurus/debug/registry-0da": {
+    "component": "component---theme-debug-registry-679-501"
+  },
+  "/__docusaurus/debug/routes-244": {
+    "component": "component---theme-debug-routes-946-699"
+  },
+  "/blog-04f": {
+    "component": "component---theme-blog-list-pagea-6-a-7ba",
+    "sidebar": "sidebar---blog-814-8ac",
+    "items": [
+      {
+        "content": "content---blog-906-0be"
+      }
+    ],
+    "metadata": "metadata---blogb-2-b-df1"
+  },
+  "/blog/archive-f4c": {
+    "component": "component---theme-blog-archive-page-9-e-4-1d8",
+    "archive": "archive---blog-archiveb-2-f-393"
+  },
+  "/blog/entity-lists-c5d": {
+    "component": "component---theme-blog-post-pageccc-cab",
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-entity-lists-7-eb-990"
+  },
+  "/blog/tags-e13": {
+    "component": "component---theme-blog-tags-list-page-01-a-d0b",
+    "sidebar": "sidebar---blog-814-8ac",
+    "tags": "tags---blog-tagsa-70-da2"
+  },
+  "/blog/tags/analytics-4da": {
+    "component": "component---theme-blog-tags-posts-page-687-b6c",
+    "sidebar": "sidebar---blog-814-8ac",
+    "items": [
+      {
+        "content": "content---blog-906-0be"
+      }
+    ],
+    "metadata": "metadata---blog-tags-analytics-361-986"
+  },
+  "/blog/tags/daos-ed2": {
+    "component": "component---theme-blog-tags-posts-page-687-b6c",
+    "sidebar": "sidebar---blog-814-8ac",
+    "items": [
+      {
+        "content": "content---blog-906-0be"
+      }
+    ],
+    "metadata": "metadata---blog-tags-daos-5-fb-8ad"
+  },
+  "/blog/tags/fees-ee0": {
+    "component": "component---theme-blog-tags-posts-page-687-b6c",
+    "sidebar": "sidebar---blog-814-8ac",
+    "items": [
+      {
+        "content": "content---blog-906-0be"
+      }
+    ],
+    "metadata": "metadata---blog-tags-feese-79-520"
+  },
+  "/blog/tags/solana-86d": {
+    "component": "component---theme-blog-tags-posts-page-687-b6c",
+    "sidebar": "sidebar---blog-814-8ac",
+    "items": [
+      {
+        "content": "content---blog-906-0be"
+      }
+    ],
+    "metadata": "metadata---blog-tags-solana-759-8eb"
+  },
+  "/docs-51f": {
+    "component": "component---theme-doc-page-1-be-9be",
+    "versionMetadata": "versionMetadata---docs-935-398"
+  },
+  "/docs/intro-aed": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-intro-0-e-3-be1"
+  },
+  "/docs/learn/entity-lists-a24": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-learn-entity-lists-8-a-5-c96"
+  },
+  "/docs/learn/fetching-analytics-782": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-learn-fetching-analyticse-1-d-78c"
+  },
+  "/docs/tokenomics-110": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-tokenomics-5-ae-0fd"
+  },
+  "/-f49": {
+    "component": "component---site-src-pages-index-tsx-1-df-d3e",
+    "config": "config---5-e-9-4f3"
+  }
+}

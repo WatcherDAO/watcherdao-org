@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://watcherdao.org/blog</id>
+    <title>WatcherDAO Blog</title>
+    <updated>2021-12-31T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://watcherdao.org/blog"/>
+    <subtitle>WatcherDAO Blog</subtitle>
+    <icon>https://watcherdao.org/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Welcome]]></title>
+        <id>welcome</id>
+        <link href="https://watcherdao.org/blog/welcome"/>
+        <updated>2021-12-31T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Hello.]]></summary>
+        <content type="html"><![CDATA[<p>Hello.</p>]]></content>
+    </entry>
+</feed>

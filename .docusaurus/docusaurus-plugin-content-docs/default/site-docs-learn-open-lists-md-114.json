@@ -1,0 +1,26 @@
+{
+  "unversionedId": "learn/open-lists",
+  "id": "learn/open-lists",
+  "title": "Entity Lists",
+  "description": "The core innovation with the Watcher protocol is the ability to scale read operations on the Solana blockchain. It is common knowledge to any developer who has ever spent time working on Solana that since the blockchain is optimized for write operations, consistently performing and aggregating read operations is no simple task.",
+  "source": "@site/docs/learn/open-lists.md",
+  "sourceDirName": "learn",
+  "slug": "/learn/open-lists",
+  "permalink": "/docs/learn/open-lists",
+  "editUrl": "https://github.com/WatcherDAO/docs/learn/open-lists.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Getting Started",
+    "permalink": "/docs/intro"
+  },
+  "next": {
+    "title": "Fetching Analytics",
+    "permalink": "/docs/learn/fetching-analytics"
+  }
+}

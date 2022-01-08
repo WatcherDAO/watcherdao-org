@@ -1,0 +1,30 @@
+{
+  "/blog/tags/analytics": {
+    "allTagsPath": "/blog/tags",
+    "slug": "/blog/tags/analytics",
+    "name": "analytics",
+    "count": 1,
+    "permalink": "/blog/tags/analytics"
+  },
+  "/blog/tags/solana": {
+    "allTagsPath": "/blog/tags",
+    "slug": "/blog/tags/solana",
+    "name": "solana",
+    "count": 1,
+    "permalink": "/blog/tags/solana"
+  },
+  "/blog/tags/fees": {
+    "allTagsPath": "/blog/tags",
+    "slug": "/blog/tags/fees",
+    "name": "fees",
+    "count": 1,
+    "permalink": "/blog/tags/fees"
+  },
+  "/blog/tags/daos": {
+    "allTagsPath": "/blog/tags",
+    "slug": "/blog/tags/daos",
+    "name": "daos",
+    "count": 1,
+    "permalink": "/blog/tags/daos"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "unversionedId": "learn/fetching-analytics",
+  "id": "learn/fetching-analytics",
+  "title": "Fetching Analytics",
+  "description": "Coming soon!",
+  "source": "@site/docs/learn/fetching-analytics.md",
+  "sourceDirName": "learn",
+  "slug": "/learn/fetching-analytics",
+  "permalink": "/docs/learn/fetching-analytics",
+  "editUrl": "https://github.com/WatcherDAO/docs/learn/fetching-analytics.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Entity Lists",
+    "permalink": "/docs/learn/entity-lists"
+  },
+  "next": {
+    "title": "Tokenomics",
+    "permalink": "/docs/tokenomics"
+  }
+}

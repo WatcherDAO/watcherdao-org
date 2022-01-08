@@ -1,0 +1,71 @@
+{
+  "pluginId": "default",
+  "version": "current",
+  "label": "Next",
+  "banner": null,
+  "badge": false,
+  "className": "docs-version-current",
+  "isLast": true,
+  "docsSidebars": {
+    "tutorialSidebar": [
+      {
+        "type": "link",
+        "label": "Getting Started",
+        "href": "/docs/intro",
+        "docId": "intro"
+      },
+      {
+        "type": "category",
+        "label": "Learn",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Entity Lists",
+            "href": "/docs/learn/entity-lists",
+            "docId": "learn/entity-lists"
+          },
+          {
+            "type": "link",
+            "label": "Fetching Analytics",
+            "href": "/docs/learn/fetching-analytics",
+            "docId": "learn/fetching-analytics"
+          }
+        ]
+      },
+      {
+        "type": "link",
+        "label": "Tokenomics",
+        "href": "/docs/tokenomics",
+        "docId": "tokenomics"
+      }
+    ]
+  },
+  "docs": {
+    "intro": {
+      "id": "intro",
+      "title": "Getting Started",
+      "description": "WatcherDAO provides entity analytics by and for the Solana community.",
+      "sidebar": "tutorialSidebar"
+    },
+    "learn/entity-lists": {
+      "id": "learn/entity-lists",
+      "title": "Entity Lists",
+      "description": "The core innovation with WatcherDAO is its ability to verify and scale read operations on the Solana blockchain. It is common knowledge to any developer who has ever spent time working on Solana that since the blockchain is optimized for write operations, consistently performing and aggregating read operations is no simple task.",
+      "sidebar": "tutorialSidebar"
+    },
+    "learn/fetching-analytics": {
+      "id": "learn/fetching-analytics",
+      "title": "Fetching Analytics",
+      "description": "Coming soon!",
+      "sidebar": "tutorialSidebar"
+    },
+    "tokenomics": {
+      "id": "tokenomics",
+      "title": "Tokenomics",
+      "description": "WATCH Token Allocation",
+      "sidebar": "tutorialSidebar"
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "unversionedId": "learn/fees",
+  "id": "learn/fees",
+  "title": "Fees",
+  "description": "Coming soon!",
+  "source": "@site/docs/learn/fees.md",
+  "sourceDirName": "learn",
+  "slug": "/learn/fees",
+  "permalink": "/docs/learn/fees",
+  "editUrl": "https://github.com/WatcherDAO/docs/learn/fees.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Fetching Analytics",
+    "permalink": "/docs/learn/fetching-analytics"
+  }
+}

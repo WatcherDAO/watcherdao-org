@@ -1,0 +1,26 @@
+{
+  "unversionedId": "learn/tokens",
+  "id": "learn/tokens",
+  "title": "Tokens",
+  "description": "Coming soon!",
+  "source": "@site/docs/learn/tokens.md",
+  "sourceDirName": "learn",
+  "slug": "/learn/tokens",
+  "permalink": "/docs/learn/tokens",
+  "editUrl": "https://github.com/WatcherDAO/docs/learn/tokens.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Getting Started",
+    "permalink": "/docs/intro"
+  },
+  "next": {
+    "title": "DAOs",
+    "permalink": "/docs/learn/daos"
+  }
+}

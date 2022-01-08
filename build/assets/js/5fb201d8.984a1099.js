@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwatcherdao=self.webpackChunkwatcherdao||[]).push([[750],{8133:function(a){a.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"/blog/tags/daos","name":"daos","count":1,"permalink":"/blog/tags/daos"}')}}]);

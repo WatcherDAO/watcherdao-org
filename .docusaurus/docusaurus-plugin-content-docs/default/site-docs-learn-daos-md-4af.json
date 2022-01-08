@@ -1,0 +1,26 @@
+{
+  "unversionedId": "learn/daos",
+  "id": "learn/daos",
+  "title": "DAOs",
+  "description": "Coming soon!",
+  "source": "@site/docs/learn/daos.md",
+  "sourceDirName": "learn",
+  "slug": "/learn/daos",
+  "permalink": "/docs/learn/daos",
+  "editUrl": "https://github.com/WatcherDAO/docs/learn/daos.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Getting Started",
+    "permalink": "/docs/intro"
+  },
+  "next": {
+    "title": "Fees",
+    "permalink": "/docs/learn/fees"
+  }
+}

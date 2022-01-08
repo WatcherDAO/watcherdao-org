@@ -1,0 +1,22 @@
+{
+  "unversionedId": "tokenomics",
+  "id": "tokenomics",
+  "title": "Tokenomics",
+  "description": "WATCH Token Allocation",
+  "source": "@site/docs/tokenomics.md",
+  "sourceDirName": ".",
+  "slug": "/tokenomics",
+  "permalink": "/docs/tokenomics",
+  "editUrl": "https://github.com/WatcherDAO/docs/tokenomics.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Fetching Analytics",
+    "permalink": "/docs/learn/fetching-analytics"
+  }
+}
